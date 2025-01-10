@@ -27,11 +27,11 @@ function Home2() {
               and use them extensively in my research.
               <br />
               <br />
-              My interests include developing quantum algorithms, researching quantum error correction, and working practical applications of quantum technologies in the real world.
+              My interests include developing quantum circuits, researching quantum cellular automata, and working practical applications of quantum technologies in the real world.
               <br />
               <br />
               Whenever feasible, I use my curiosity to create quantum computing
-              simulations and tools, using Qiskit, TensorFlow Quantum, and other
+              simulations, using Qiskit, and other
               cutting-edge frameworks to fuel creativity.
             </p>
           </Col>
