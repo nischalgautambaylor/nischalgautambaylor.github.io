@@ -15,7 +15,7 @@ function Footer() {
           <h3>Designed and Developed by Nischal Gautam</h3>
         </Col> */}
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} NG</h3>
+          <h3>Site Reference: https://soumyajit.vercel.app/</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
