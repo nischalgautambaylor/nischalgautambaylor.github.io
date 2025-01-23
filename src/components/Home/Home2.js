@@ -32,7 +32,7 @@ function Home2() {
               <br />
               Whenever feasible, I use my curiosity to create quantum computing
               simulations, using Qiskit, and other
-              cutting-edge frameworks to fuel creativity.
+              cutting-edge frameworks to fuel my creativity.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
