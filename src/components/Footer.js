@@ -15,7 +15,7 @@ function Footer() {
           <h3>Designed and Developed by Nischal Gautam</h3>
         </Col> */}
         <Col md="4" className="footer-copywright">
-          <h3 style={{ fontSize: "10px" }}>Site Reference: https://soumyajit.vercel.app/</h3>
+          <h3 style={{ fontSize: "10px" }}>Site Reference: soumyajit.vercel.app/</h3>
         </Col>
 
         <Col md="4" className="footer-body">
