@@ -7,9 +7,12 @@ function Type() {
       options={{
         strings: [
           "Electrical Engineer",
-          "Freelancer",
-          "Python Developer",
-          "MATLAB User"
+          "PhD Student",
+          "Python User",
+          "Quantum Computing Enthusiast",
+          "MATLAB User",
+          "Casual Footballer",
+          "Pool Player",
         ],
         autoStart: true,
         loop: true,
