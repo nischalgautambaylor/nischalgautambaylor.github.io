@@ -1,2 +1,0 @@
-Hi i am Nischal
-👋👋
