@@ -27,7 +27,7 @@ Scalability: Potential for integration into future nanoscale computing devices.
 
 Reduced Heat Generation: Crucial for AI training and edge computing applications.
 
-### Check out my [Github](https://github.com/nischalgautambaylor) and [LinkedIn](https://www.linkedin.com/in/nischal-gautam-7046309b/) pages.
+## Check out my [Github](https://github.com/nischalgautambaylor) and [LinkedIn](https://www.linkedin.com/in/nischal-gautam-7046309b/) pages.
 
 ```{tableofcontents}
 ```
