@@ -1,6 +1,7 @@
-# Hi! I am Nischal Gautam
+# About Me
+## Hi! My name is Nischal Gautam
 
-Check out the content pages bundled with this sample book to see more.
+I am a PhD student at Baylor University.
 
 Check out my [Github](https://github.com/nischalgautambaylor) and [LinkedIn](https://www.linkedin.com/in/nischal-gautam-7046309b/) pages.
 
